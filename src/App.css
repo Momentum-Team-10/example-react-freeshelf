@@ -1,0 +1,22 @@
+body {
+  max-width: 60rem;
+  margin: 1rem auto;
+}
+
+.App {
+  margin: 0 20px;
+}
+.Book {
+  border: 3px solid #ccccff;
+  border-radius: 1rem;
+  margin: 2rem 0;
+  padding: 1rem;
+}
+
+.book-data {
+  display: flex;
+}
+
+.book-image {
+  height: 200px;
+}
